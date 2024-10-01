@@ -8,6 +8,7 @@ pip install numpy
 pip install sklearn
 pip install pickle
 pip install FastAPI
+pip install requests
 
 Run server:
 uvicorn main:app --reload
